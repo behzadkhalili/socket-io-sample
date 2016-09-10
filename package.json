@@ -1,0 +1,29 @@
+{
+  "name": "socket-io-sample",
+  "version": "1.0.0",
+  "description": "Socket IO Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behzadkhalili/socket-io-sample.git"
+  },
+  "keywords": [
+    "Socket",
+    "Socket.io",
+    "WebSocket",
+    "NodeJS"
+  ],
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  },
+  "author": "Behzad Khalili <behzadkhalili.online@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/behzadkhalili/socket-io-sample/issues"
+  },
+  "homepage": "https://github.com/behzadkhalili/socket-io-sample#readme"
+}

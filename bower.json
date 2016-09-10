@@ -1,0 +1,24 @@
+{
+  "name": "socket-io-sample",
+  "version": "1.0.0",
+  "authors": [
+    "Behzad Khalili <behzadkhalili.online@gmail.com>"
+  ],
+  "description": "Socket IO Sample",
+  "main": "",
+  "keywords": [
+    "Socket.io",
+    "Socket",
+    "WebSocket",
+    "NodeJS"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
